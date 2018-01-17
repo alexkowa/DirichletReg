@@ -2,7 +2,7 @@ useDynLib("DirichletReg")
 
 import("maxLik")
 import("Formula")
-import("rgl")
+#import("rgl")
 
 import("stats")
 import("grDevices")
